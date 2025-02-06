@@ -17,4 +17,6 @@ $ ICKA_EMAIL=<email> ICKA_PASSWORD=<password> icka
 
 # run once every hour, without exiting
 $ icka -email <email> -password <password> -forever
+
+$ icka -user-agent <agent> -email <email> -password <password> -forever
 ```
